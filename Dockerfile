@@ -1,4 +1,5 @@
 FROM ubuntu
+MAINTAINER Trevor Dixon <trevordixon@gmail.com>
 
 WORKDIR /root
 
